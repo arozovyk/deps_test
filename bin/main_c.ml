@@ -1,0 +1,1 @@
+let f () = print_endline "hi from main c"

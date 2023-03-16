@@ -1,0 +1,4 @@
+(executable
+ (public_name lib_deps)
+ (name main_b)
+ (libraries libtoto))
