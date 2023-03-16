@@ -1,5 +1,3 @@
 (library
  (name libtoto)
- (libraries libfoo)
- (flags (:standard -open Libfoo.Lib_x))
- )
+ (libraries libfoo))

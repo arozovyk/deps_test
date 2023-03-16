@@ -1,3 +1,1 @@
-let f () =
-  print_endline "hi from lib_c24sd";
-  Lib_a.f ()
+let f () = print_endline "hi from lib_toto_c"
