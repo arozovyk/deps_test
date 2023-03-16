@@ -1,3 +1,5 @@
 (library
  (name libtoto)
- (libraries libfoo))
+ (libraries libfoo)
+ (flags
+  (:standard -open Libfoo.Y)))
