@@ -1,10 +1,6 @@
-let k () =
-  Libfoo.Lib_x.f ();
-  ()
+ 
 
 let f () =
   print_endline "hi from sqdsssdsssqssss";
   print_endline "hi from sqdsssdsssqsssssss";
-  Lib_a.f ()
-
- 
+  Lib_x.f ()

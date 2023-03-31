@@ -1,5 +1,5 @@
-let () =
-  print_endline "hi from main_a23";
-  Libtoto.Lib_c.f ()
+let f () =
+  print_endline "hi from f main_aa";
+  print_endline "hi from f main_aaskass"
 
-let f () = print_endline "hi from f main_aE"
+let ss () = ()
