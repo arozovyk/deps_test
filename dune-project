@@ -12,7 +12,7 @@
 (maintainers "Maintainer Name")
 
 (license LICENSE)
-
+(implicit_transitive_deps true)
 (documentation https://url/to/documentation)
 
 (package

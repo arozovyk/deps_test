@@ -3,8 +3,9 @@ let k () =
   ()
 
 let f () =
-  print_endline "hi from sqdsssdsssqssss";
-  print_endline "hi from sqdsssdsssqsssssss";
+  print_endline "hi from Libtoto.Lib_c";
+  
   Lib_a.f ()
 
- 
+
+  let d ()= ()

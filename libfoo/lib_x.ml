@@ -1,4 +1,4 @@
 
 
-let f () = print_endline "hi from lisb_as2sd"
+let f () = print_endline "hi from Libfoo.Lib_x "
  

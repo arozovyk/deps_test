@@ -1,1 +1,0 @@
- alias dstat="stat -f ' (atime): %Sa -  (mtime): %Sm -  (ctime):  %d Filename: %N' "

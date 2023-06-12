@@ -1,3 +1,4 @@
 let f () =
-  print_endline "hi from lib_b455ssss";
+  print_endline "hi from Libfoo.Lib_y";
+
   Lib_x.f ()

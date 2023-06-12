@@ -1,2 +1,2 @@
-let f () = print_endline "hi from lisb_as2sd"
-let k () = ()
+let f () = print_endline "hi from Libtoto.Lib_a"
+ 
